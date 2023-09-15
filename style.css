@@ -1,0 +1,51 @@
+html {
+  background-color: rgba(32, 5, 54, 0.884);
+}
+
+body {
+  background-color: rgb(rgb(238, 149, 149), green, blue);
+  border-radius: 15px;
+  width: 600px;
+  margin: 100px auto;
+  padding: 25px 150px 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1,
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+img {
+  border-radius: 15px;
+  border: 2px solid black;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+.black {
+  color: rgb(229, 233, 6);
+}
+
+.purple {
+  color: rgb(173, 101, 221);
+}
+
+.blue {
+  color: rgb(156, 212, 238);
+}
+
+a {
+  color: rgb(86, 17, 126);
+}
+
+a:hover {
+  font-weight: bold;
+}
